@@ -5,6 +5,7 @@
 The RockPaperScissors() function is an interactive console game that lets you play Rock, Paper, Scissors against the computer.<br>
 It runs for three rounds, comparing your selection to a randomly chosen option by the computer each time.<br>
 
+<h2>How it works</h2>
 <ul>
   <li>The program greets the player and asks for their name.</li>
   <li>It explains the rules — you’ll play three rounds.</li>
